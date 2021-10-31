@@ -1,6 +1,6 @@
 root {
     --color_light__grey: grey;
-    --color_dark__grey: #151414;
+    --color_dark__grey: darkgrey;
 }
 * {
     margin: 0;
