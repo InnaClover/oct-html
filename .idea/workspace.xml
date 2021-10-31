@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3ded49d-3dae-4d8d-9d79-758155a62971" name="Changes" comment="HW4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zb5sHwVGFWToWJZC7I4ARkez8g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson4" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\hz\oct-html\lesson4" />
+      <recent name="C:\Users\User\WebstormProjects\hz\oct-html\lesson3" />
+      <recent name="C:\Users\User\WebstormProjects\hz\oct-html\lesson2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ded49d-3dae-4d8d-9d79-758155a62971" name="Changes" comment="" />
+      <created>1634404153593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634404153593</updated>
+      <workItem from="1634404155699" duration="9143000" />
+      <workItem from="1634482593000" duration="5507000" />
+      <workItem from="1634492330604" duration="826000" />
+      <workItem from="1634493247585" duration="4000" />
+      <workItem from="1634494168778" duration="173000" />
+      <workItem from="1634840512495" duration="101000" />
+      <workItem from="1634840724586" duration="3024000" />
+      <workItem from="1634999803266" duration="6163000" />
+      <workItem from="1635010738020" duration="5495000" />
+      <workItem from="1635097080496" duration="198000" />
+      <workItem from="1635097449785" duration="679000" />
+      <workItem from="1635603428580" duration="751000" />
+      <workItem from="1635604529323" duration="82000" />
+      <workItem from="1635604662165" duration="4846000" />
+      <workItem from="1635696317061" duration="10621000" />
+    </task>
+    <task id="LOCAL-00001" summary="дз2">
+      <created>1634411781485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634411781485</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" .">
+      <created>1634412006982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634412006983</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" .">
+      <created>1634487193208</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634487193208</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавила id">
+      <created>1634493107491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634493107491</updated>
+    </task>
+    <task id="LOCAL-00005" summary="переставила стили в хед">
+      <created>1634494316121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634494316121</updated>
+    </task>
+    <task id="LOCAL-00006" summary="дз">
+      <created>1634843909416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634843909416</updated>
+    </task>
+    <task id="LOCAL-00007" summary="...">
+      <created>1635006291185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635006291185</updated>
+    </task>
+    <task id="LOCAL-00008" summary="..">
+      <created>1635015846143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635015846143</updated>
+    </task>
+    <task id="LOCAL-00009" summary="..">
+      <created>1635097818618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635097818618</updated>
+    </task>
+    <task id="LOCAL-00010" summary=",">
+      <created>1635706699241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635706699241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз2" />
+    <MESSAGE value=" ." />
+    <MESSAGE value="добавила id" />
+    <MESSAGE value="переставила стили в хед" />
+    <MESSAGE value="дз" />
+    <MESSAGE value="..." />
+    <MESSAGE value=".." />
+    <MESSAGE value="," />
+    <option name="LAST_COMMIT_MESSAGE" value="," />
+  </component>
+</project>
